@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![stevymarlino's's github activity graph](https://activity-graph.herokuapp.com/graph?username=StevyMarlino&theme=xcode&hide_border=true)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=StevyMarlino&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=StevyMarlino&theme=tokyonight" />
+</p>
