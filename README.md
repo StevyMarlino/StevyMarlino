@@ -1,17 +1,19 @@
 ### Hi there 👋
 
-<!--
-**StevyMarlino/StevyMarlino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on Freelance
+- 🌱 I’m currently learning Infra as a Code (Ansible, docker, Kubernet, AWS solution Achitect, Github Actions)
+- 👯 I’m looking to collaborate on any open source project to help and improve myself
+- 🤔 I’m looking for help with AWS
+- 💬 Ask me about what you want to know
+- 📫 How to reach me: ... endamanstevy@gmail.com
+- 😄 Pronouns: ... Marlino
 - ⚡ Fun fact: ...
+
+
+[![StevyMarlino github stats](https://github-readme-stats.vercel.app/api?username=StevyMarlino&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/StevyMarlino/github-readme-stats)
+
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StevyMarlino)](https://github.com/StevyMarlino/github-readme-stats)
 -->
-![stevymarlino's's github activity graph](https://activity-graph.herokuapp.com/graph?username=StevyMarlino&theme=xcode&hide_border=true)
