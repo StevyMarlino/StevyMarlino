@@ -8,7 +8,7 @@
 - 📫 How to reach me: ... endamanstevy@gmail.com
 - 😄 Pronouns: ... Marlino
 - ⚡ Fun fact: ...
-- 😄 portefolio : https://endaman-stevy-portfolio.vercel.app/
+- 😄 portefolio : refont du portefolio
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=StevyMarlino&theme=onedark)](https://github.com/StevyMarlino/github-profile-trophy)
 
